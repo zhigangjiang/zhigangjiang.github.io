@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my master's degree from [East China Normal University](https://www.ecnu.edu.cn/). Before that, I received my bachelor's degree from [Fujian Normal University](https://www.fjnu.edu.cn/).
+I obtained my master's degree from [East China Normal University](https://www.ecnu.edu.cn/), advised by [Prof. Jinhua Xu](https://faculty.ecnu.edu.cn/_s16/xjh2/main.psp). Before that, I received my bachelor's degree from [Fujian Normal University](https://www.fjnu.edu.cn/).
 
 My research interests are in the area of computer vision, especially 360 panoramic vision and 3D vision.
 
