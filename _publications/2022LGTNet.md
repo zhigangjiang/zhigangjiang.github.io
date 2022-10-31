@@ -1,5 +1,5 @@
 ---
-title: LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network
+title: "LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network"
 collection: publications
 conf: IEEE/CVF Conference on Computer Vision and Pattern Recognition
 conf_shortname: CVPR
