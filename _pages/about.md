@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently engaged in 3D reconstruction and object detection at [Zeekr Auto](https://www.zeekrlife.com/). Before that, I research room 3D layout reconstruction at [YiWo Technology](https://123kanfang.com/).
+I am currently engaged in 3D reconstruction and object detection at [Zeekr Auto](https://www.zeekrlife.com/). Before that, I researched room 3D layout estimation at [YiWo Technology](https://123kanfang.com/).
  
 I obtained my master's degree from [East China Normal University](https://www.ecnu.edu.cn/), advised by [Prof. Jinhua Xu](https://faculty.ecnu.edu.cn/_s16/xjh2/main.psp). Before that, I received my bachelor's degree from [Fujian Normal University](https://www.fjnu.edu.cn/).
 
