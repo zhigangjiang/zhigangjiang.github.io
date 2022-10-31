@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhigang Jiang / Homepage"
 title_separator          : "-"
-name                     : &name "Zhigang Jiang"
+name                     : &name "Zhigang Jiang 姜志刚"
 description              : &description "personal description"
 url                      : https://zhigangjiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biogrcaphy for the left-hand sidebar"
   location         : "Shanghai, China"
-  employer         : "Zeekr Auto"
+  employer         : #"Zeekr Auto"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TmyDQcsAAAAJ&hl=en"
   email            :
