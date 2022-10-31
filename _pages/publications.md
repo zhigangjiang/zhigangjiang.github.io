@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single-pub.html %}
 {% endfor %}
 
-<font size='3'>* co-first author</font>
+<!-- <font size='3'>* co-first author</font> -->
