@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-{% if site.author.googlescholar %}
-  You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
+
+{% if site.author.googlescholar and site.author.semanticscholar %}
+  You can find full list of publications on <a href="{{site.author.googlescholar}}">Google Scholar profile</a> or <a href="{{site.author.semanticscholar}}">Semantic Scholar profile</a>.
 {% endif %}
 
 {% include base_path %}
@@ -13,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single-pub.html %}
 {% endfor %}
+
+<font size='3'>* co-first author</font>
