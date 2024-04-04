@@ -17,3 +17,9 @@ My research interests are in the area of computer vision, especially 360 panoram
 News
 ======
 * **2022.02**: [LGT-Net](https://github.com/zhigangjiang/LGT-Net) is accepted to CVPR 2022. It uses the Geometry-Aware Transformer Network to predict the 3D room layout of an rgb panorama.
+
+Honors & Awards
+======
+* **2022**: Outstanding Master's Thesis, East China Normal University
+* **2022**: Outstanding Graduates, Shanghai
+* **2019**: Outstanding Graduates, Fujian Normal University
